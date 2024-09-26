@@ -1,0 +1,6 @@
+{
+  "client": {
+    "source": "currency\\react-app",
+    "plugin": "zcatalyst-cli-plugin-react"
+  }
+}

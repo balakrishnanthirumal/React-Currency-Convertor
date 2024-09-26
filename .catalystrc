@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "7875000000012136",
+      "name": "convertorcurrency",
+      "domain": {
+        "id": "50022129448",
+        "name": "convertorcurrency-60031125983.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60031125983",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
